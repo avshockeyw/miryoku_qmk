@@ -18,7 +18,7 @@ K41,  K10,  K11,  K12,  K13,  K14,         K15,  K16,  K17,  K18,  K19,  K45, \
 K42,  K20,  K21,  K22,  K23,  K24,         K25,  K26,  K27,  K28,  K29,  K46 , \
                            K33,  K34,   K35,  K36,  K37 \
 )
-#endif
+
 
 #define MIRYOKU_LAYER_LIST \
 MIRYOKU_X(BASE,   "base") \
@@ -87,3 +87,5 @@ U_NA,              KC_F11,            KC_F12,            KC_PSCR,           KC_S
 U_NA,              KC_F6,             KC_F7,             KC_F8,             KC_F9,             KC_F10,            KC_VOLD,           KC_LSFT,           KC_LCTL,           KC_LALT,           KC_LGUI,           U_NP,      \
 U_NA,              KC_F1,             KC_F2,             KC_F3,             KC_F4,             KC_F5,             KC_MUTE,           TD(U_TD_U_FUN),    TD(U_TD_U_MEDIA),  KC_ALGR,           U_NA,              U_NP,      \
 U_NP,              U_NP,              U_NP,              U_NP,              KC_ESC,            KC_ENT,            KC_BSPC,           U_NA,              U_NA,              U_NA,              U_NP,              U_NP
+
+#endif

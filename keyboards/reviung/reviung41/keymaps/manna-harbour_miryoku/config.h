@@ -5,16 +5,5 @@
 
 #pragma once
 
-#define MIRYOKU_MAPPING( \
-     K40, K00, K01, K02, K03, K04,      K05, K06, K07, K08, K09, K44, \
-     K41, K10, K11, K12, K13, K14,      K15, K16, K17, K18, K19, K45, \
-     K42, K20, K21, K22, K23, K24,      K25, K26, K27, K28, K29, K46, \
-     N43, N30, N31, K32, K33, K34,      K35, K36, K37, N38, N39, N47 \
-) \
-LAYOUT_reviung41( \
-K40,  K00,  K01,  K02,  K03,  K04,         K05,  K06,  K07,  K08,  K09,  K44, \
-K41,  K10,  K11,  K12,  K13,  K14,         K15,  K16,  K17,  K18,  K19,  K45, \
-K42,  K20,  K21,  K22,  K23,  K24,         K25,  K26,  K27,  K28,  K29,  K46 , \
-                           K33,  K34,   K35,  K36,  K37 \
-)
+
 #define OLED_FONT_H "keyboards/crkbd/lib/glcdfont.c"

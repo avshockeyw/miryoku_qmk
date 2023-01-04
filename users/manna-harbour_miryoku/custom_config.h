@@ -24,7 +24,7 @@ K42,  K20,  K21,  K22,  K23,  K24,         K25,  K26,  K27,  K28,  K29,  K46 , \
 MIRYOKU_X(BASE,   "base") \
 MIRYOKU_X(EXTRA,  "qwerty") \
 MIRYOKU_X(TAP,    "game") \
-//MIRYOKU_X(BUTTON, "Button") \
+//MIRYOKU_X(BUTTON, "Button")
 MIRYOKU_X(NAV,    "nav") \
 MIRYOKU_X(MOUSE,  "mouse") \
 MIRYOKU_X(MEDIA,  "media") \
